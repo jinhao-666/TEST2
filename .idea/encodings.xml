@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/AudioPlayWave.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Bird.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Column.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GameIntroduce.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GlorySort.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/GoldCoin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Ground.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Jdbcs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LoginWidget.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MyWindow.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TravelWidget.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/World.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ClientMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/client/ui/ChatFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/server/ServerMain.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
